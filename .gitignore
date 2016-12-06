@@ -1,2 +1,7 @@
 target
 src/main/java/example/proto/
+.idea/
+src/main/java/example/avro/
+users.avro
+users2.avro
+
